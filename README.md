@@ -32,7 +32,7 @@ Pode-se marcar até as 5 localizações possíveis no mapa.
 Exibe a posição atual do GPS no mapa.
 
 ## Imagens: 
-![](/screenshot/localizacaoAPI.jpeg)
+![](/screenshot/localizacaoAPI.jpeg =150x50)
 
 
 ## Load: 
