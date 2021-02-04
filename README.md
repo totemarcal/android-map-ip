@@ -32,7 +32,7 @@ Pode-se marcar até as 5 localizações possíveis no mapa.
 Exibe a posição atual do GPS no mapa.
 
 ## Imagens: 
-<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/localizacaoAPI.jpeg" width="150" height="50"/>
+<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/localizacaoAPI.jpeg" width="150" height="350"/>
 <img src="" width="150" height="50"/>
 <img src="" width="150" height="50"/>
 <img src="" width="150" height="50"/>
