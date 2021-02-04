@@ -31,6 +31,9 @@ Pode-se marcar até as 5 localizações possíveis no mapa.
 
 Exibe a posição atual do GPS no mapa.
 
+## Imagens: 
+![](/screenshot)
+
 
 ## Load: 
 Ao corregar o app aparece uma mensagem com as opções de habilitar ou não habilitar o GPS. Ao clicar na opção de habilitar é carregado a possição atual do dispositivo móvel no mapa e move a camera do mapa para a posição.    
