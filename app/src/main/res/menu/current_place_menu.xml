@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:visible="true"
+        android:id="@+id/option_get_place"
+        android:title="@string/option_get_place"
+        android:enabled="true">
+    </item>
+    <item android:visible="true" android:id="@+id/option_get_place_off"
+        android:titleCondensed="@string/option_get_place_off"
+        android:title="@string/option_get_place_off"
+        android:enabled="true">
+    </item>
+    <item android:visible="true" android:id="@+id/option_get_place_ip"
+        android:titleCondensed="@string/option_get_place_ip"
+        android:title="@string/option_get_place_ip"
+        android:enabled="true">
+    </item>
+    <item android:visible="true" android:id="@+id/permission"
+        android:titleCondensed="@string/option_get_permission"
+        android:title="@string/option_get_permission"
+        android:enabled="true">
+    </item>
+</menu>
