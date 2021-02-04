@@ -33,10 +33,10 @@ Exibe a posição atual do GPS no mapa.
 
 ## Imagens: 
 <img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/localizacaoAPI.jpeg" width="180" height="350"/>
-<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/permissaogps.jpeg" width="180" height="50"/>
-<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/opcoesmenu.jpeg" width="180" height="50"/>
-<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/opcoeslocalizacao.jpeg" width="180" height="50"/>
-<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/marcarcaoLocalizacao.jpeg" width="180" height="50"/>
+<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/permissaogps.jpeg" width="180" height="350"/>
+<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/opcoesmenu.jpeg" width="180" height="350"/>
+<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/opcoeslocalizacao.jpeg" width="180" height="350"/>
+<img src="https://github.com/totemarcal/android-map-ip/blob/main/screenshot/marcarcaoLocalizacao.jpeg" width="180" height="350"/>
 
 
 
